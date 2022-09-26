@@ -26,7 +26,7 @@ body{
     overflow:hidden;
     align-items:center;
     justify-content:center;
-    background-color: whitesmoke;
+    background-color: rgb(255, 255, 255);
     color:black;
     font-size:20vw;
     letter-spacing:2px;
