@@ -197,6 +197,7 @@ color: teal;
 .image {
     position:relative;
     align-items: center;
+    width: 650px;
 }
 .image__img{
     display: block;
